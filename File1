@@ -9,6 +9,6 @@ To add single file use git add <fileName>
 
 To commit use git commit -m "Comments"
 To push use command git push origin main
-To go out of directory we use cd..
+
 
 
