@@ -1,0 +1,12 @@
+Git clone <link>
+To see the status use git status
+
+Cd change directory
+Ls - to see list
+Ls -a - to see all hidden files
+
+To add all files use git add .
+
+To commit use git commit -m "Comments"
+
+
