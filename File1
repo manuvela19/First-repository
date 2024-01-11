@@ -8,5 +8,7 @@ Ls -a - to see all hidden files
 To add all files use git add .
 
 To commit use git commit -m "Comments"
+To push use command git push origin main
+
 
 
