@@ -8,5 +8,6 @@ Ls -a - to see all hidden files
 To add all files use git add .
 
 To commit use git commit -m "Comments"
-
+To go out of directory we use cd..
+for making new directory we use mkdir file name
 
